@@ -1,0 +1,50 @@
+# OSX
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Dependencies
+node_modules/
+bun.lockb
+
+# Build output
+.next/
+out/
+*.tsbuildinfo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Testing
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temporary files
+*.swp
+*.swo
+*~
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Cursor
+.cursorignore
+.cursorindexingignore
+
+# Sentry
+.sentryclirc
+
+# Vercel
+.vercel

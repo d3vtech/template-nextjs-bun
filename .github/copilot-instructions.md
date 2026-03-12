@@ -1,0 +1,9 @@
+# GitHub Copilot Instructions
+
+All project conventions, coding standards, and architectural rules are maintained in a single source of truth:
+
+**Read and follow [`AGENTS.md`](../AGENTS.md) at the repository root.**
+
+That file contains the complete set of rules for language & runtime, naming conventions, formatting, project structure, components, error handling, DRY principles, linters, formatters, githooks, Sentry, and testing.
+
+Do not duplicate rules here. If you need to add or change a convention, update `AGENTS.md`.
